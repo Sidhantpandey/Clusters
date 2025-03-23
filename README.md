@@ -19,6 +19,8 @@ The **Cluster** module allows you to create multiple processes to handle concurr
 ## When to Use
 - Applications requiring high performance under heavy traffic.
 - Scenarios where multi-threading or parallelism improves throenshot
+## How to start the server
+- Run (npm run dev)
 
 ![image](https://github.com/user-attachments/assets/4a57af09-e314-42f7-b5b7-5901a69c159d)
 
